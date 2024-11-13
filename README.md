@@ -10,7 +10,7 @@ I’m currently enrolled in a data engineering training program, working on proj
 I’m interested in collaborating on projects related to data engineering, Python programming, and machine learning. I am open to contributing to projects involving data pipelines, ETL processes, and AI-powered applications.
 
 ## 📫 How to Reach Me
-You can reach me via email at rabii.zahoune@example.com or connect with me on [LinkedIn](https://www.linkedin.com/in/rabii-zahoune/).
+You can reach me via email at rabiizahnoune7@gmail.com or connect with me on [LinkedIn](https://www.linkedin.com/in/rabii-zahnoune-3044b120b//).
 
 ## 😄 Pronouns
 He/Him
