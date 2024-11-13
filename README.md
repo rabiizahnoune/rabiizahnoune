@@ -1,4 +1,4 @@
-# 👋 Hi, I’m Rabii Zahoune (@rabiizahnoune)
+# 👋 Hi, I’m Rabii Zahnoune (@rabiizahnoune)
 
 ## 👀 About Me
 I am a software engineering graduate now expanding my skills in data engineering. With a passion for technology and data, I am diving deep into fields like machine learning, data analysis, and data processing. My goal is to bridge my knowledge in software development with the dynamic world of data engineering.
